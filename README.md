@@ -1,7 +1,6 @@
 ## Author
 
 Jaani Söderström
-2110226
 
 # Computer Vision App
 
@@ -27,8 +26,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/
-   cd computer-vision-fx
+   git clone https://github.com/Sodejaa/computer-vision-javafx.git
+   cd computer-vision-javafx
    ```
 2. Build the project using Maven:
    ```sh
@@ -75,8 +74,9 @@ computer-vision-fx/
 │   │-- CVFxApp.java
 │-- src/main/resources/
 │   │-- haarcascade_frontalface_alt.xml
-│   │-- hand_cascade.xml
-│   │-- test.mp4
+│   │-- steve-jobs-explaining-apps.mp4
+│-- Dockerfile
+│-- .gitignore
 │-- pom.xml
 │-- README.md
 
