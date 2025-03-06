@@ -96,7 +96,7 @@ mvn clean javafx:run
 
 Check that `haarcascade_frontalface_alt.xml` exists in `src/main/resources/`.
 
-Sourc: https://geithub.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+Sourc: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
 
 ## License
 
