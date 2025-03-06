@@ -4,7 +4,7 @@ Jaani Söderström
 
 # Computer Vision App
 
-A JavaFX application for real-time face and hand gesture detection using OpenCV. Supports webcam input and video file processing.
+A JavaFX application for real-time face detection using OpenCV. Supports webcam input and video file processing.
 
 ## Features
 
