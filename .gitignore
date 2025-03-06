@@ -1,0 +1,10 @@
+# IDE directories
+.idea/
+
+# Maven generated files
+target/
+dependency-reduced-pom.xml
+
+# Java specific
+*.class
+*.log
